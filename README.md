@@ -4,7 +4,7 @@
       <a href="" style="color: blue; font-size:25px; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
-       <b>AI Engineer | Fullstack Developer</b>
+       <b>AI | Backend | Data Science | Python/Go</b>
       </a>
    </h1> 
 </div>
